@@ -1,0 +1,4 @@
+wfastcgi==3.0.0
+Flask==3.0.3
+dbapi==0.0.14
+hdbcli==2.20.15
